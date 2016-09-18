@@ -1,6 +1,6 @@
 # memory-game-Nightng
 
-This is Wilson Ng's Pokemon theme Memory game for Homework2 with the bonus points included
+This is Wilson Ng's Pokemon theme Memory game for Homework2 with the bonus points included for Android.
 
 1. Wilson Ng Tse
 2. wilsonng1ve@gmail.com
